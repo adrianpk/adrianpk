@@ -4,11 +4,12 @@ I write Go professionally, almost exclusively. I've also worked on Elixir-based 
 
 Currently developing personal and commercial projects in:  
 - **Go**  
-- **Clojure**  
 - **Ruby**
+- **Elixir**
 
 I'm also exploring homoiconic languages, an old interest that finally found room to grow:  
 - **Racket** – probably the most pleasant syntax I’ve ever worked with  
+- **Clojure** – when you need to go big but still want your parens in place 
 - **LFE** – parentheses on top of the BEAM, bringing clarity to concurrent systems  
 - **Elisp** – I'm a long-time Emacs user, though Neovim has earned its place too  
 - **Guile** – mostly because of Guix. It's not my main OS yet, but I'm testing it on a VM and might switch from my current Arch-based setup if nothing critical breaks
